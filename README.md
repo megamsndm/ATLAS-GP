@@ -182,5 +182,5 @@ All rights reserved.
 If you use ATLAS-GP in research, please cite:
 ```
 ATLAS-GP: Adaptive Topology-driven Landscape-Aware Search with GP guidance
-https://github.com/YOUR_USERNAME/ATLAS-GP
+https://github.com/megamsndm/ATLAS-GP
 ```
