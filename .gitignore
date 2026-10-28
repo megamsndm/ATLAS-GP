@@ -41,3 +41,5 @@ Desktop.ini
 # Downloaded dependencies (auto-fetched by bat/cmake)
 external/LBFGSpp/
 external/eigen/
+
+_atlas_mace_*
