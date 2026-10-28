@@ -171,12 +171,6 @@ Requires: GCC 11+, CMake 3.16+, Eigen3 (auto-downloaded), LBFGSpp (auto-cloned)
 
 ---
 
-## License
-
-All rights reserved.
-
----
-
 ## Citation
 
 If you use ATLAS-GP in research, please cite:
